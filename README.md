@@ -1,2 +1,2 @@
-# arduino-projects
+# easy arduino projects
  
